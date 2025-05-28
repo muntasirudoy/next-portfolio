@@ -16,17 +16,17 @@ export default function Home() {
 
 	return (
 		<>
-			<Layout headerStyle={2} footerStyle={1}>
+			<Layout headerStyle={2} footerStyle={2}>
 				<Home2 />
 				{/* <Static2 /> */}
-				<Service1 />
+				{/* <Service1 />
 				<Projects1 />
 				<Resume1 />
 				<Skills1 />
 				<Brands1 />
 				<Testimonials1 />
 				<Blog1 />
-				<Contact1 />
+				<Contact1 /> */}
 			</Layout>
 		</>
 	)
